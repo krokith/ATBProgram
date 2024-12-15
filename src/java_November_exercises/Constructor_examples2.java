@@ -25,8 +25,12 @@ public class Constructor_examples {
         System.out.println(t1.car_model);
         System.out.println(t1.car_year);
 
+<<<<<<< Updated upstream
         //temp3
 
 
+=======
+//temp4
+>>>>>>> Stashed changes
     }
 }
